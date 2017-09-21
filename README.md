@@ -20,6 +20,7 @@ We solicit three types of submissions:
 - Full papers (up to 6 pages)
 - Short papers (up to 4 pages)
 - Demo papers (up to 4 pages)
+
 Submissions must follow the standard SigCHI format, using one of the following templates: [LaTeX](https://github.com/sigchi/Document-Formats/tree/master/LaTeX), [Microsoft Word](http://st.sigchi.org/sigchi-paper-template/SIGCHIPaperFormat.docx)
 
 Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=iui2018milc). Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. 
