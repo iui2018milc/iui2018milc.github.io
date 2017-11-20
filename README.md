@@ -2,7 +2,7 @@ Today's music ecosystem is permeated by digital technology — from recording to
 
 Both ends of the music market therefore heavily rely on and benefit from intelligent approaches that enable users to access sound and music in unprecedented manners. This ongoing trend draws from manifold areas such as interactive machine learning, music information retrieval (MIR) — in particular content-based retrieval systems, recommender systems, human computer interaction, and adaptive systems, to name but a few prominent examples. The Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2018) will bring together researchers from these communities and provide a forum for the latest trends in user-centric machine learning and interfaces for music consumption and creation.
 
-##Exemplary Topics of Interest
+## Exemplary Topics of Interest
 - Music and audio search interfaces
 - Adaptive music user interfaces
 - Music learning interfaces
