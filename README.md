@@ -2,6 +2,30 @@ Today's music ecosystem is permeated by digital technology — from recording to
 
 Both ends of the music market therefore heavily rely on and benefit from intelligent approaches that enable users to access sound and music in unprecedented manners. This ongoing trend draws from manifold areas such as interactive machine learning, music information retrieval (MIR) — in particular content-based retrieval systems, recommender systems, human computer interaction, and adaptive systems, to name but a few prominent examples. The Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2018) will bring together researchers from these communities and provide a forum for the latest trends in user-centric machine learning and interfaces for music consumption and creation.
 
+##Exemplary Topics of Interest
+- Music and audio search interfaces
+- Adaptive music user interfaces
+- Music learning interfaces
+- Music recommender systems
+- Gamification in music interfaces
+- Novel visualization paradigms
+- New technologies for human expression, creativity, and embodied interaction
+- Machine learning for new digital musical instruments
+- Gestural interfaces for music creation and listening
+- Accessible music making technologies
+- Intelligent systems for music composition
+- User modeling for personalized music interfaces
+
+## Submissions
+All papers must be original and not simultaneously submitted to another journal or conference. We solicit three types of submissions:
+- Full papers (up to 6 pages)
+- Short papers (up to 4 pages)
+- Demo papers (up to 4 pages)
+
+Submissions must follow the standard SigCHI format, using one of the following templates: [LaTeX](https://github.com/sigchi/Document-Formats/tree/master/LaTeX), [Microsoft Word](http://st.sigchi.org/sigchi-paper-template/SIGCHIPaperFormat.docx)
+
+Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=iui2018milc). Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. 
+
 ## Important Dates
 - December 17, 2017: Deadline for paper submission
 - January 23, 2018: Acceptance notification for paper submissions
@@ -15,12 +39,24 @@ Both ends of the music market therefore heavily rely on and benefit from intelli
 
 Contact: [milc2018@easychair.org](mailto:milc2018@easychair.org)
 
-## Submissions
-We solicit three types of submissions:
-- Full papers (up to 6 pages)
-- Short papers (up to 4 pages)
-- Demo papers (up to 4 pages)
+## Program Committee
+- Baptiste Caramiaux, IRCAM, France
+- Mark Cartwright, New York University, USA
+- Matthew Davies, INESC TEC Porto, Portugal
+- Christian Dittmar, International Audio Laboratories Erlangen, Germany
+- Bruce Ferwerda, Jönköping University, Sweden
+- Ichiro Fujinaga, McGill University, Canada
+- Jason Hockman, Birmingham City University, UK
+- Masataka Goto, National Institute of Advanced Industrial Science and Technology, Japan
+- Florian Grote, Native Instruments GmbH, Germany
+- Bogdan Ionescu, University Politehnica of Bucharest, Romania
+- Vikas Kumar, University of Minnesota, USA
+- Cynthia Liem, Delft University of Technology, Netherlands
+- Matija Marolt, University of Ljubljana, Slovenia
+- Cárthach Ó Nuanáin, Universitat Pompeu Fabra, Spain
+- Tae Hong Park, New York University, USA
+- Sebastian Stober, University of Potsdam, Germany
+- Michael Zbyszynski, Goldsmiths University of London, UK
 
-Submissions must follow the standard SigCHI format, using one of the following templates: [LaTeX](https://github.com/sigchi/Document-Formats/tree/master/LaTeX), [Microsoft Word](http://st.sigchi.org/sigchi-paper-template/SIGCHIPaperFormat.docx)
-
-Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=iui2018milc). Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. 
+## Call for Papers
+The call for papers can be found online on [EasyChair CFP](https://easychair.org/cfp/milc2018).
