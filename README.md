@@ -1,6 +1,6 @@
-Today's music ecosystem is permeated by digital technology — from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesising new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
+Today's music ecosystem is permeated by digital technology — from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the **music creation** side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesising new sounds or even new musical material. On the **music consumption** side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
 
-Both ends of the music market therefore heavily rely on and benefit from intelligent approaches that enable users to access sound and music in unprecedented manners. This ongoing trend draws from manifold areas such as interactive machine learning, music information retrieval (MIR) — in particular content-based retrieval systems, recommender systems, human computer interaction, and adaptive systems, to name but a few prominent examples. The Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2018) will bring together researchers from these communities and provide a forum for the latest trends in user-centric machine learning and interfaces for music consumption and creation.
+Both ends of the music market therefore heavily rely on and benefit from intelligent approaches that enable users to access sound and music in unprecedented manners. This ongoing trend draws from manifold areas such as interactive machine learning, music information retrieval (MIR) — in particular content-based retrieval systems, recommender systems, human computer interaction, and adaptive systems, to name but a few prominent examples. The **Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2018)** will bring together researchers from these communities and provide a forum for the latest trends in user-centric machine learning and interfaces for music consumption and creation.
 
 ## Exemplary Topics of Interest
 - Music and audio search interfaces
@@ -18,13 +18,13 @@ Both ends of the music market therefore heavily rely on and benefit from intelli
 
 ## Submissions
 All papers must be original and not simultaneously submitted to another journal or conference. We solicit three types of submissions:
-- Full papers (up to 6 pages)
-- Short papers (up to 4 pages)
-- Demo papers (up to 4 pages)
+- **Full papers** (up to 6 pages)
+- **Short papers** (up to 4 pages)
+- **Demo papers** (up to 4 pages)
 
-Submissions must follow the standard SigCHI format, using one of the following templates: [LaTeX](https://github.com/sigchi/Document-Formats/tree/master/LaTeX), [Microsoft Word](http://st.sigchi.org/sigchi-paper-template/SIGCHIPaperFormat.docx)
+Submissions must follow the standard SigCHI format, using one of the following templates: [LaTeX](https://github.com/sigchi/Document-Formats/tree/master/LaTeX), [Microsoft Word](http://st.sigchi.org/sigchi-paper-template/SIGCHIPaperFormat.docx). Note that **references count towards the page limits**.
 
-Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=iui2018milc). Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. 
+Please **anonymize your submission (double-blind reviewing policy)** and submit your paper via [EasyChair](https://easychair.org/conferences/?conf=iui2018milc). Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. 
 
 ## Important Dates
 - December 17, 2017: Deadline for paper submission
