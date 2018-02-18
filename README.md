@@ -23,7 +23,7 @@
   *Adam Roberts, Jesse Engel, Sageev Oore, Douglas Eck* (25+5')
 - Lumanote: A Real-Time Interactive Music Composition Assistant. 
   *James Granger, Mateo Aviles, Joshua Kirby, Austin Griffin, Johnny Yoon, Raniero Lara-Garduno, Tracy Hammond* (20+5')
-- *Demos and Final Remarks*
+- Demos and Final Remarks
 
 #### 15:00-15:15 *Coffee Break*
 
