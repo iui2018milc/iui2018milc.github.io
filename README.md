@@ -2,7 +2,7 @@
 The [MILC workshop proceedings](http://ceur-ws.org/Vol-2068/#milc) are published by CEUR-WS in the [Joint Proceedings of the ACM IUI 2018 Workshops](http://ceur-ws.org/Vol-2068/).
 
 ## Workshop Schedule (March 11, 2018, 2F Room 202-203)
-#### 9:15-9:25	Welcome ([Proceedings Preface](https://github.com/sigchi/Document-Formats/tree/master/LaTeX))
+#### 9:15-9:25	Welcome ([Proceedings Preface](http://ceur-ws.org/Vol-2068/preface-milc.pdf))
 #### 9:25-10:45 Session 1 - *Personalization*
 - [How Automated Recommendations Affect the Playlist Creation Behavior of Users](http://ceur-ws.org/Vol-2068/milc1.pdf). 
   *Iman Kamehkhosh, Dietmar Jannach, Geoffray Bonnin* (25+5')
