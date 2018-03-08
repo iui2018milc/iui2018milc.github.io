@@ -1,27 +1,30 @@
-## Workshop Schedule
-#### 9:15-9:25	Welcome
+## Welcome to the MILC workshop held in conjunction with the 23rd International Conference on Intelligent User Interfaces ([IUI 2018](http://iui.acm.org/2018))
+The [MILC workshop proceedings](http://ceur-ws.org/Vol-2068/#milc) are published by CEUR-WS in the [Joint Proceedings of the ACM IUI 2018 Workshops](http://ceur-ws.org/Vol-2068/).
+
+## Workshop Schedule (March 11, 2018, 2F Room 202-203)
+#### 9:15-9:25	Welcome ([Proceedings Preface](https://github.com/sigchi/Document-Formats/tree/master/LaTeX))
 #### 9:25-10:45 Session 1 - *Personalization*
-- How Automated Recommendations Affect the Playlist Creation Behavior of Users. 
+- [How Automated Recommendations Affect the Playlist Creation Behavior of Users](http://ceur-ws.org/Vol-2068/milc1.pdf). 
   *Iman Kamehkhosh, Dietmar Jannach, Geoffray Bonnin* (25+5')
-- geMsearch: Personalized Explorative Music Search. 
+- [geMsearch: Personalized Explorative Music Search](http://ceur-ws.org/Vol-2068/milc2.pdf). 
   *Christian Esswein, Markus Schedl, Eva Zangerle* (20+5')
-- MedleyAssistant - A system for personalized music medley creation. 
+- [MedleyAssistant - A system for personalized music medley creation](http://ceur-ws.org/Vol-2068/milc3.pdf). 
   *Zhengshan Shi, Gautham J. Mysore* (20+5')
 
 #### 10:45-11:00 *Coffee Break*
 #### 11:00-12:30 Session 2 - *Interaction*
-- An environment for machine pedagogy: Learning how to teach computers to read music. 
+- [An environment for machine pedagogy: Learning how to teach computers to read music](http://ceur-ws.org/Vol-2068/milc4.pdf). 
   *Gabriel Vigliensoni, Jorge Calvo-Zaragoza, Ichiro Fujinaga* (20+5')
-- Beyond a Skeuomorphic Representation of Subtractive Synthesis. 
+- [Beyond a Skeuomorphic Representation of Subtractive Synthesis](http://ceur-ws.org/Vol-2068/milc5.pdf). 
   *Martin Lindh* (20+5')
-- Overviewing a field of self-organising music interfaces: autonomous, distributed, environmentally aware, feedback systems. 
+- [Overviewing a field of self-organising music interfaces: autonomous, distributed, environmentally aware, feedback systems](http://ceur-ws.org/Vol-2068/milc6.pdf). 
   *Phivos-Angelos Kollias* (25+5')
 
 #### 12:30-13:30 *Lunch*
 #### 13:30-15:00 Session 3 - *Composition*
-- Learning Latent Representations of Music to Generate Interactive Musical Palettes. 
+- [Learning Latent Representations of Music to Generate Interactive Musical Palettes](http://ceur-ws.org/Vol-2068/milc7.pdf). 
   *Adam Roberts, Jesse Engel, Sageev Oore, Douglas Eck* (25+5')
-- Lumanote: A Real-Time Interactive Music Composition Assistant. 
+- [Lumanote: A Real-Time Interactive Music Composition Assistant](http://ceur-ws.org/Vol-2068/milc8.pdf). 
   *James Granger, Mateo Aviles, Joshua Kirby, Austin Griffin, Johnny Yoon, Raniero Lara-Garduno, Tracy Hammond* (20+5')
 - Demos and Final Remarks
 
